@@ -1,0 +1,10 @@
+Ćwiczenie na jakość kodu.
+
+W tym ćwiczeniu będziesz musiał znaleźć część kodu jaki napisałeś miesiące temu i przeanalizować go. Możesz nie wiedzieć jak jak go ocenić jeszcze, ale po prosty pisz komentarze w kodzie na wszystkim co Ci się nie podoba w nim. Kluczem jest to by iść linia po linii i plik po pliku i patrzeć się na każdą linię kodu. Będziesz wtedy oznaczał kod obiektywnie i pisał dlaczego to akurat Ci nie pasuje. To nie musi być duży kawał oprogramowania, po prosty coś co napisałeś jakiś czas temu.
+
+Wskazówka!
+Porównaj listę defektów, które znalazłeś robiąc to i skategoryzuj je. Możesz spojrzeć na oficjalne nazewnictwo/kategorie błędów, ale dobrą podstawą jest:
+-Logika
+-Typ danych
+-Nazewnictwo
+Logiczny błąd jest wtedy, gdy piszesz if-statement albo pętlę, która jest zła. Błąd typu danych jest wtedy, gdy używasz zmiennych i zakładasz je w złym typie. Błąd w nazewnictwie jest wtedy, gdy nazwałeś jakąś funkcję i zrobiłeś to źle. To nie są oficjalne kategorie, ale są dobre dla Ciebie w tym momencie.
