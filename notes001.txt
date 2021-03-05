@@ -1,0 +1,30 @@
+Ćwiczenie na kreatywność i implementację kodu.
+1. Zrobić chcecklist rzeczy, które ma zawierać dany pomysł/projekt.(im krótsza tym lepsza)
+2.Utworzyć "szkielet" projektu i podzielić go na części.
+3. By zobaczyć jak pracujesz/zmierzyć się użyj rejestratora video oraz nagrywania ekranu.
+4.Wyznacz sobie na zadanie 45 min! Nie więcej i nie mniej!
+5. Gdy skończysz spojrzyj na to co utworzyłeś.
+6. Przeanalizuj co sprawia Ci kłopot. Co powoduje, że się blokujesz.
+7. Napisz code i sprawdzaj go czy nie wyskakują błędy krytyczne.
+
+
+
+To samo ćwiczenie, ale dla początkujących programistów:
+1. Przygotuj swój komputer i upewnij się, że Ty tez jesteś gotowy.
+2. Przeczytaj opis zadania i zanotuj przemyślenia. 
+3. weź swoje badanie i przekształć je w listę TODO. Zanotuj wszystko co myślisz o zadaniu. 
+4. Jeśli masz gotową listę TODO podczas rozwiązywania problemu będziesz potrzebował tego:
+	1.Wybierz najprostszy podpunkt na Twojej liście zadań i zrób to.
+	2.Sprawdź czy działa.
+	3.Przekreśl to zadanie i idź do kolejnego.
+
+Ten proces jest bardzo ważny, a składa się z 3 prostych rzeczy "utwórz listę, zrób to, sprawdź to".
+
+Proces początkujących programistów:
+Ten proces również będzie działał dla kodu w jakim piszesz.
+1. Napisz plan po Angielsku co on powinien robić(kod). Jeśli zrobisz to od akapitów to dobrze, ale będziesz musiał przekształcić to w listę.
+2. Przekształć tą listę w komentarze dodając "#" przed każdym z nich.
+3. Zacznij od góry i pod każdym komentarzem napisz kod Pythona, który sprawi, że będzie to działało. Jeśli komentarz jest zbyt ogólny rozbij go na mniejsze części.
+4. Sprawdź kod, żeby upewnić się co właśnie napisałeś bez błędów systemowych i powinno działać w większości.
+
+To jest to co powinieneś zrobić. Jeśli wiesz co chcesz kodować to zrób to w Angielskim, później będziesz zdolny to implementowania go łatwo i nie będziesz musiał myśleć o tym co kodujesz. Ewentualnie nie będziesz musiał pisać komentarzy i napiszesz kod, ale kiedy utkniesz w miejscu to ZRÓB TO!
