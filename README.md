@@ -1,1 +1,1 @@
-# Python_Hard_Way
+Files about book "Python Hard Way 3" translated to polish.
