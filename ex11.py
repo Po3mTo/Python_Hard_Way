@@ -1,0 +1,16 @@
+print("How old are you?", end='')
+age = input()
+print("How tall are you", end='')
+height = input()
+print("How much do you weigh?", end='')
+weight = input()
+
+print(f"So, you're {age} old, {height} tall and {weight} heavy.Hmmm...great!")
+
+print("Tell me where are you from?", end='')
+country = input()
+print("Tell me which city you came from?", end='')
+city = input()
+print("What kind of degree do you have?", end='')
+degree = input()
+print(f'Awesome! {country} is your country and {city} is a very beautiful city! You also have {degree} degree!')
