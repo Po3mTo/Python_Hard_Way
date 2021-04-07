@@ -6,11 +6,12 @@ print(formatter.format(True, False, False, True))
 # This example is a little bit harder, but it's clear.
 print(formatter.format(formatter, formatter, formatter, formatter))
 print(formatter.format(
-    "I like ice creams, and pancakes.",
-    "Also I found my new passion (probably). And you'll never believe what it is...",
-    "It's programming.",
+    "I like ice creams, and pancakes.\n",
+    "Also I found my new passion (probably).\n And you'll never believe what it is...",
+    "It's programming.\n",
     "Pretty good as a boy who do not know math."
 ))
+print(formatter.format(formatter, "Formatic side", "good..." * 10, formatter))
 # Good tool to work faster. It wasn't in the scrimba course.
 # Jak to działa? Co przez to daję znać komputerowi?
 # 1. Weź łańcuch formatyzatora zdefiniowany w linii 1.
