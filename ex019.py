@@ -42,3 +42,10 @@ cheese_and_crackers(liczba_serów, liczba_krakersów)
 
 print("Let's add to our packet of cheese and crackers some more packages: ")
 cheese_and_crackers(paczka_serów + 22, paczka_krakersów + 2222)
+
+print("Let's add some input's in here: ")
+print("How many packages of cheese do you want?: ")
+package_of_cheese = input(int())
+print("How many packages of crackers do you want?: ")
+package_of_crackers = input(int())
+cheese_and_crackers(package_of_cheese, package_of_crackers)
